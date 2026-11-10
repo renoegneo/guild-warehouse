@@ -1,0 +1,4 @@
+{
+  // [НАСТРОЙКА] false = без серых подсказок; вернуть true можно после этапа 1
+  "editor.inlineSuggest.enabled": false
+}
